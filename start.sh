@@ -1,5 +1,5 @@
 #!/bin/bash
-#!/database
+/database
 mongod  
 use coupon 
 
