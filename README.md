@@ -55,3 +55,7 @@ The application is divided in two parts, the first part is the backend which is 
       •	The client can’t order more than one voucher for each type of voucher.
 
       •	The state of a voucher is limited by quantity or time.
+
+#IV.	Some Screenshot for the application:
+
+
