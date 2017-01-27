@@ -6,6 +6,8 @@ by Nour houda ROUATBI (M2 DSC) and Nassim TOUATI (M2 ERASMUS)
 
 The application is intended for the promotion of the exchange of vouchers.
 
+The application is divided in two parts, the first part is the backend which is the server, and the second part is the frontend which is considered as the client. 
+
 #I.	Actors:
 
       •	Gérant.
