@@ -1,14 +1,14 @@
 #!/bin/bash
-/database
+#database
 mongod  
 use coupon 
 
-#!/Server
+#Server
 cd couponReservation\server
 npm install
 node server.js
 
-#!/Client
+#Client
 cd couponReservation\client\todo-roles
 npm install
 ionic serve
