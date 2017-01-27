@@ -1,16 +1,16 @@
 # MobileProject
 
-Project description:
+#Project description:
 
 The application is intended for the promotion of the exchange of vouchers.
 
-I.	Actors:
+#I.	Actors:
 
       •	Gérant.
 
       •	Client.
 
-II.	functionalities:
+#II.	functionalities:
 
     1.	Gérant :
 
@@ -46,7 +46,7 @@ II.	functionalities:
 
           •	Accept or denied a request in the market place.
 
-III.	Restriction in the application:
+#III.	Restriction in the application:
 
       •	The client can’t order more than one voucher for each type of voucher.
 
