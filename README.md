@@ -1,6 +1,6 @@
 # MobileProject
 Project description:
-
+The application is intended for the promotion of the exchange of vouchers.
 I.	Actors:
 
       •	Gérant.
