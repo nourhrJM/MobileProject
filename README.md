@@ -22,7 +22,7 @@ The application is intended for the promotion of the exchange of vouchers.
 
           •	View all available offer.
 
-          •	View his oun offers.
+          •	View his own offers.
 
     2.	Client :
 
