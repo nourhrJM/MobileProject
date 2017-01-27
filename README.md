@@ -27,12 +27,12 @@ The application is intended for the promotion of the exchange of vouchers.
     2.	Client :
 
           •	SignIn/SignUp.
+          
+          •	Delete account.
 
           •	Order for a voucher.
 
           •	View his vocher.
-
-          •	Delete account.
 
           •	Access to the client market place.
 
