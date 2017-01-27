@@ -1,4 +1,6 @@
-# MobileProject
+# Exchange Voucher application
+
+by Nour houda ROUATBI (M2 DSC) and Nassim TOUATI (M2 ERASMUS)
 
 #Project description:
 
