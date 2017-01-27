@@ -68,4 +68,5 @@ The application is divided in two parts, the first part is the backend which is 
 ![16357401_10154967472689868_1582789165_o](https://cloud.githubusercontent.com/assets/15886418/22389639/f63c2288-e4e6-11e6-8403-2e67ddea9a42.png)
 
  •	Add voucher (coupon):
+ 
 ![16325617_10154967474374868_2018365585_o](https://cloud.githubusercontent.com/assets/15886418/22389637/f5f00d80-e4e6-11e6-8b86-84d76e2db02a.png)
